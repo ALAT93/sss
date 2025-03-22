@@ -6,3 +6,4 @@ vless://59950e48-1a85-4d1f-8c83-9366e21a881f@185.207.1.76:443?type=tcp&security=
 vless://18b42d4d-580c-4bcb-964b-db93457b3ae0@185.184.70.48:13507?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=paO1TMygT5PynUTEFWKHOym9ULbXoU7RyO-STHiDU1k&sid=31c87861#
 vless://YXV0bzo3ZTU4MTNkMC1lNWFjLTQzN2MtYmE0ZS0yZjhjMTdhODRhYWVAMTk0LjQ5LjUzLjE4NDo0NDM?
 vless://YXV0bzplMzEwOWMxOC04MTQ1LTRjZjItYjA0YS1lYmRjMDlhODkzN2ZAOTUuMTY0LjQ2LjE1Mzo2MDA?remarks-Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQDEzMS4xNDUuMTAuMjE4OjQ0Mw#%F0%9F%87%AC%F0%9F%87%A7%20GB
