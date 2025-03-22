@@ -1,1 +1,1 @@
-http://185.209.49.103:2096/json/a70wz0q49tre7dy2
+vless://d1cc2d41-eaec-4a53-9a7d-839b2fe52755@185.209.49.103:443?type=tcp&security=reality&pbk=Rm0pQH5bjiyCcBuwyo9vNqvIDm3Fh8riI8D5foMJ0AI&fp=chrome&sni=www.apple.com&sid=c234&spx=%2F&flow=xtls-rprx-vision#jdozo41d
