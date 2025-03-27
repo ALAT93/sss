@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMiDwn6uC
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=100; expire=20
-#support-url: https://https://github.com/ALAT93/sss/edit/main/moi
-#profile-web-page-url: https://github.com/ALAT93/sss/edit/main/moi
+profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMiDwn6uC
+profile-update-interval: 1
+subscription-userinfo: upload=29; download=12; total=100; expire=20
+support-url: https://https://github.com/ALAT93/sss/edit/main/moi
+profile-web-page-url: https://github.com/ALAT93/sss/edit/main/moi
 vless://709faf30-1396-451c-9eaa-f595ce046f7b@185.207.1.76:443?type=tcp&security=reality&pbk=yz7KS9-vG5PHkQbC6UMGPHMI6IS9qm4BmTYcuQNCSHg&fp=chrome&sni=www.sochi.ru&sid=8ded&spx=%2F&flow=xtls-rprx-vision#usa%20%F0%9F%87%BA%F0%9F%87%B8-usa%20my
 vless://bffbb948-4638-4936-aa3b-9029cba4d685@2.56.173.46:443?fragment=&security=reality&encryption=none&pbk=BYBd4jDi2z_i2I4wZBp7a2_bzEP6RMEe53Dgh6_KfEA&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.samsung.com&sid=c729376eb7f9a15d
 vless://18b42d4d-580c-4bcb-964b-db93457b3ae0@185.184.70.48:13507?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=paO1TMygT5PynUTEFWKHOym9ULbXoU7RyO-STHiDU1k&sid=31c87861#
