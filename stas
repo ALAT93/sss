@@ -1,4 +1,2 @@
 vless://bffbb948-4638-4936-aa3b-9029cba4d685@2.56.173.46:443?fragment=&security=reality&encryption=none&pbk=BYBd4jDi2z_i2I4wZBp7a2_bzEP6RMEe53Dgh6_KfEA&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.samsung.com&sid=c729376eb7f9a15d
-vless://dcb84c4d-9c6f-483f-a0d2-cbafcda1373f@91.99.5.73:25699?type=tcp&security=reality&fp=firefox&pbk=gZbgD4Pk16MjMxskW5pL53NA0cXYzntR36FKGeKmR3k&sni=apple.com&flow=xtls-rprx-vision&sid=a152eda1&spx=%2F#germany
-vless://71c99f4f-08fc-4a6e-86fa-b4a4a6e3d5c1@89.110.64.5:443?type=xhttp&path=%2F&host=yahoo.com&mode=auto&security=reality&pbk=q6IL7UKQrzVomnlFRc8AstCudOSirQ4jRgXLmXAoVU0&fp=chrome&sni=yahoo.com&sid=97269d71c2eb9ee7&spx=%2F#for%20happ
-vless://cbb3608a-2210-485b-9f5e-fb32936c2797@45.11.26.181:443?type=tcp&security=reality&pbk=sOn25GJ763-PaCGORwqX92mHPF2Wzmis_L7fGueH1gM&fp=chrome&sni=apple.com&sid=32&spx=%2F&flow=xtls-rprx-vision#America
+vless://7200effd-d630-4c5c-9e0d-41afec54efe1@77.110.116.75:443?security=tls&type=ws&headerType=&path=%2F&host=google.com&sni=google.com&fp=&alpn=http%2F1.1&allowInsecure=1#Profile2%20
