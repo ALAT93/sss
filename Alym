@@ -1,3 +1,4 @@
 vless://7200effd-d630-4c5c-9e0d-41afec54efe1@77.110.116.75:443?security=tls&type=ws&headerType=&path=%2F&host=google.com&sni=google.com&fp=&alpn=http%2F1.1&allowInsecure=1#Profile2%20
 vless://9fc37c6f-f878-4cdc-8b8b-257aa21e6b53@45.9.41.26:443?type=tcp&security=reality&pbk=K-sDc7Yl2p7Ju4a1vOmyrYG4CUzUW9LyGVqJWMkG1C8&fp=chrome&sni=apple.com&sid=7a8a853d&spx=%2F&flow=xtls-rprx-vision#usa%20target
 vless://43ab8ecd-ea33-4bb5-89b1-0eb4c581884e@212.34.136.90:12025?type=tcp&security=reality&pbk=SOj5j1PzNSl2zjHaAadzMRN9pE_2K21tofpUydkUi1w&fp=chrome&sni=yahoo.com&sid=5b&spx=%2F&flow=xtls-rprx-vision#profile1
+vless://cf362ddf-6409-4cfd-9231-33108dffc989@195.133.198.141:443?type=tcp&security=reality&pbk=G_wZ7RHPOsESIaTBnlU01lJ9tm5scZ0kUQ1I7XNlnFw&fp=chrome&sni=yellowb.sidorinlab.ru&sid=c1ce7f16bc47&spx=%2F&flow=xtls-rprx-vision#profile3
