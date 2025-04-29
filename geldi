@@ -1,3 +1,2 @@
 vless://baebba16-afa6-451c-a71d-a2c6bf8f3b14@45.10.246.26:443?type=tcp&security=reality&pbk=R97z3wnIijvrp8UDE2o9jdxtvRkImASgZ4mdI73xCTM&fp=firefox&sni=ya.ru&sid=2a922620a7cb&spx=%2F&flow=xtls-rprx-vision#profile4
-vless://43ab8ecd-ea33-4bb5-89b1-0eb4c581884e@212.34.136.90:12025?type=tcp&security=reality&pbk=SOj5j1PzNSl2zjHaAadzMRN9pE_2K21tofpUydkUi1w&fp=chrome&sni=yahoo.com&sid=5b&spx=%2F&flow=xtls-rprx-vision#profile1
-vless://cf362ddf-6409-4cfd-9231-33108dffc989@195.133.198.141:443?type=tcp&security=reality&pbk=G_wZ7RHPOsESIaTBnlU01lJ9tm5scZ0kUQ1I7XNlnFw&fp=chrome&sni=yellowb.sidorinlab.ru&sid=c1ce7f16bc47&spx=%2F&flow=xtls-rprx-vision#profile3
+vless://7f4af3ce-c0ff-4ea3-a1f7-696e1fdb3134@82.202.128.143:443?type=grpc&serviceName=google.com&authority=&security=reality&pbk=-EKAUJ4G_1C9qPdo5Sx_RIh7CMCS0rtBGbJ6diG_fAU&fp=chrome&sni=google.com&sid=53e392&spx=%2F#3zh6p4vw
